@@ -20,3 +20,10 @@ modtime = 1675052663.265991300
 owner = admin
 version = 9.0.2
 modtime = 1675052674.989789700
+
+[views/zomato_bangalore]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 9.0.2
+modtime = 1675094900.065116600
