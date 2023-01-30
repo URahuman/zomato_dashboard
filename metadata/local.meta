@@ -1,0 +1,22 @@
+[app/ui]
+version = 9.0.2
+modtime = 1675051910.344942600
+
+[app/launcher]
+version = 9.0.2
+modtime = 1675051910.375923600
+
+[props/zomato%20data]
+owner = admin
+version = 9.0.2
+modtime = 1675052570.322670200
+
+[indexes/splunkmania_demo_idx]
+owner = admin
+version = 9.0.2
+modtime = 1675052663.265991300
+
+[inputs/monitor%3A%2F%2FC%3A%5CUsers%5CMurugan%5CDownloads%5Czomato.csv%5Czomato.csv]
+owner = admin
+version = 9.0.2
+modtime = 1675052674.989789700
